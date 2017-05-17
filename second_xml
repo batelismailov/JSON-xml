@@ -1,0 +1,108 @@
+<school name=ort>
+   <level id="1"
+       <class>
+        <student>
+         <name>batel</name>
+         <grade name="math"> 100 </grade>
+         <grade name="art"> 85 </grade>
+         <grade name="english"> 95 </grade>
+         <grade name="code"> 90 </grade>
+         <grade name="history"> 80 </grade>
+        </student>
+
+            <student>
+              <name>shir</name>
+              <grade name="math"> 95 </grade>
+              <grade name="art"> 90 </grade>
+              <grade name="english"> 100 </grade>
+              <grade name="code"> 97 </grade>
+              <grade name="history"> 87 </grade>
+            </student>
+        
+      </class>
+      <class>
+        <student>
+         <name>may</name>
+         <grade name="math"> 95 </grade>
+         <grade name="art"> 90 </grade>
+         <grade name="english"> 100 </grade>
+         <grade name="code"> 90 </grade>
+         <grade name="history"> 80 </grade>
+        </student>
+
+            <student>
+              <name>shelly</name>
+              <grade name="math"> 100 </grade>
+              <grade name="art"> 100 </grade>
+              <grade name="english"> 100 </grade>
+              <grade name="code"> 97 </grade>
+              <grade name="history">87 </grade>
+            </student>
+        
+      </class>
+    </level>
+    <level id-"2">
+        <class>
+         <student>
+          <name>batel</name>
+          <grade name="math"> 100 </grade>
+          <grade name="art"> 85 </grade>
+          <grade name="english"> 95 </grade>
+          <grade name="code"> 90 </grade>
+          <grade name="history"> 80 </grade>
+         </student>
+
+        <student>
+              <name>shir</name>
+              <grade name="math"> 95 </grade>
+              <grade name="art"> 90 </grade>
+              <grade name="english"> 100 </grade>
+              <grade name="code"> 97 </grade>
+              <grade name="history"> 87 </grade>
+        </student>
+        
+       </class>
+       <class>
+        <student>
+         <name>batel</name>
+         <grade name="math"> 100 </grade>
+         <grade name="art"> 85 </grade>
+         <grade name="english"> 95 </grade>
+         <grade name="code"> 90 </grade>
+         <grade name="history"> 80 </grade>
+        </student>
+
+            <student>
+              <name>shir</name>
+              <grade name="math"> 95 </grade>
+              <grade name="art"> 90 </grade>
+              <grade name="english"> 100 </grade>
+              <grade name="code"> 97 </grade>
+              <grade name="history"> 87 </grade>
+            </student>
+        
+        </class>
+        <class>
+            <student>
+            <name>batel</name>
+            <grade name="math"> 100 </grade>
+            <grade name="art"> 85 </grade>
+            <grade name="english"> 95 </grade>
+            <grade name="code"> 90 </grade>
+            <grade name="history"> 80 </grade>
+           </student>
+          </class>
+            
+    </level>
+
+
+
+
+
+
+
+
+
+
+
+

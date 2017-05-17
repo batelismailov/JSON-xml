@@ -1,0 +1,26 @@
+{  
+  
+    class: [
+        {
+           name:"A1",
+        students: [
+        {
+            name:"Arik",
+            math:95,
+            assambly: 100,
+            fullstack: 90
+        }, 
+        {
+            name:"meir",
+            math:70,
+            assambly: 79,
+            fullstack: 80
+        }
+        {
+            name:"amir",
+            math:98,
+            assambly: 68,
+            fullstack: 95
+        }
+    ]
+}
